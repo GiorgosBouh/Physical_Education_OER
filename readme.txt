@@ -1,6 +1,6 @@
 
 This is a text-based educational game written in Python that tests your knowledge of physical education. The game includes a warm-up activity and a quiz with multiple-choice questions.
-
+The code  is deposited in the repository of the course "Sports Academies Coach" of the lifelong learning and education structure of Aristotle Thessaloniki of Thessaloniki
 ## How to Play
 
 1. Clone or download the repository.
